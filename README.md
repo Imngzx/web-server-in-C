@@ -1,7 +1,7 @@
 # web-server-in-C
 
 > [!TIP]
-> You can run this code with my neovim config in my repo profile ฅ^•ﻌ•^ฅ (<leader> rc)
+> You can run this code with my neovim config in my repo profile ฅ^•ﻌ•^ฅ (leader rc)
 
 > [!WARNING]
 > This code is not done yet 
